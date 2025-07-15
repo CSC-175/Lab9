@@ -2,7 +2,7 @@
 
 ## Background
 The Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it. Starting with the first two numbers 0 and 1, the sequence 
-looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonacci sequence can be described using the following mathematical equation:
+looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonacci sequence can be described using the following mathematical recurrence relation:
 $`X_{n+2} = X_{n+1} + X_{n}`$
 
 ## Directions
