@@ -6,7 +6,7 @@ looks like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonac
 $`X_{n+2} = X_{n+1} + X_{n}`$
 
 ## Directions
-Write a program that will prompt the user for an integer that will define the length of the Fibonacci sequence to print to the screen. This solution must use a loop without any arrays.
+Write a program that will prompt the user for an integer that will define the length of the Fibonacci sequence to print to the screen. This solution must use a loop. The use of arrays is not allowed on this assignment.
 
 ## Interface Prototype Example
 
